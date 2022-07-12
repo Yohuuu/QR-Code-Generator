@@ -1,6 +1,6 @@
 ## **QR Code Generator**
 
-Simple QR code generator I made to learn WPF.
+Simple QR code generator made by me to learn WPF.
 
 It uses QRCoder to generate QR Codes.
 
